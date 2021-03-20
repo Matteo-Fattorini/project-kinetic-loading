@@ -1,1 +1,1 @@
-project-kinetic-loading
+![](loading.gif)
